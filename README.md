@@ -66,9 +66,9 @@ main {
 ```
 
 ### Useful resources
--[layout.bradwoods.io](https://www.layout.bradwoods.io)
--[chatGPT](https://www.chatopenai.com)
--[W3schools](https://www.w3schools.com)
+- [layout.bradwoods.io](https://www.layout.bradwoods.io)
+- [chatGPT](https://www.chatopenai.com)
+- [W3schools](https://www.w3schools.com)
 
 ## Author
 
